@@ -1,0 +1,13 @@
+2025-07-03 18:03:22,135 - INFO - === Zoho Login Automation Started ===
+2025-07-03 18:03:22,138 - INFO - ====== WebDriver manager ======
+2025-07-03 18:03:23,749 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-03 18:03:23,796 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-03 18:03:23,828 - INFO - Driver [C:\Users\Aadhitya\.wdm\drivers\chromedriver\win64\138.0.7204.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-03 18:03:25,360 - INFO - Opening Zoho login page...
+2025-07-03 18:03:31,323 - INFO - \U0001f4f8 Screenshot: screenshots/login_page.png
+2025-07-03 18:03:32,591 - INFO - Email entered
+2025-07-03 18:03:39,072 - INFO - \U0001f4f8 Screenshot: screenshots/dashboard_or_post_login.png
+2025-07-03 18:03:41,508 - INFO - \u2705 Browser closed
+2025-07-03 18:03:41,540 - INFO - \U0001f4ca Excel report saved: reports/zoho_login.xlsx
+2025-07-03 18:03:41,540 - INFO - \U0001f4dd HTML report saved: reports/zoho_login.html
+2025-07-03 18:03:41,540 - INFO - === Zoho Login Automation Completed ===
